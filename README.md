@@ -1,2 +1,2 @@
 # Dots
-my dot files
+My Dots (vim, neovim in future and other stuff)
