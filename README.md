@@ -1,7 +1,7 @@
 # Dots
 My Dots (vim, neovim in future and other stuff)
 
-VIM:
+# VIM:
 Plugin manager: [VIM-PLUG](https://github.com/junegunn/vim-plug)
 
 Plugins:
