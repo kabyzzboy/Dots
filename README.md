@@ -18,3 +18,5 @@ Plugins:
 2. [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 3. [telesope](https://github.com/nvim-telescope/telescope.nvim)
 4. [netrw](https://github.com/prichrd/netrw.nvim)
+
+Theme: [Catppuccin](https://github.com/catppuccin/nvim)
